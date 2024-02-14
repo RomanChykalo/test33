@@ -1,0 +1,24 @@
+ @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&family=Roboto:wght@300&display=swap');
+ 
+  :root{
+    --wedstudio:#2196F3 ;
+    --info:#212121 ;
+    --information:#212121 ;
+  }
+
+  body{
+    font-family:"Roboto";
+  }
+  header .menu{
+    font-family:"Raleway";
+  }
+  header .menu-bth a{
+    color: var(--wedstudio);
+    text-decoration: none;
+  }
+  .selection{
+    background-color: antiquewhite;
+  }
+#bis > h3{
+  background-color: #212121;
+}
